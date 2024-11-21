@@ -7,23 +7,33 @@ The project involves the analysis of the Breast Cancer Wisconsin dataset, which 
 # Key objectives include:
 
 Understanding the structure and composition of the dataset.
-Identifying patterns and trends within the data.
-Visualizing the data for clear interpretation.
-Preparing the dataset for potential predictive modeling.
-Features Analyzed
 
-# The dataset includes 30 numeric features divided into three main types:
+Identifying patterns and trends within the data.
+
+Visualizing the data for clear interpretation.
+
+Preparing the dataset for potential predictive modeling.
+
+# Features Analyzed
+
+The dataset includes 30 numeric features divided into three main types:
 
 Radius, Texture, Perimeter, and similar shape-related metrics.
+
 Statistical metrics such as Mean, Standard Error, and Worst for each feature.
+
 Diagnosis labels (M = Malignant, B = Benign) indicating the type of breast mass.
 
 # Tools and Libraries Used
+
 Python for programming.
+
 Pandas, NumPy, and Matplotlib/Seaborn for data manipulation and visualization.
+
 Scikit-learn for feature scaling and preparation for predictive analysis.
 
 # Key Insights
+
 # Distribution of Malignant and Benign Tumors: 
 
 Examined the class balance within the dataset.
